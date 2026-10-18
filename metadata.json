@@ -1,0 +1,6 @@
+{
+  "name": "NovaWork AI",
+  "description": "Autonomous Multi-Agent Enterprise Knowledge & Workflow Copilot combining RAG, Document Intelligence, Meeting Intelligence, and Agentic Workflow Execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
